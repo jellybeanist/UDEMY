@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+	int favNum;
+	
+	cout << "Enter your fav number between 1 and 100" << endl;
+	
+	cin >> favNum;
+	
+	cout << "Here is your favourite number: " << favNum << endl;;
+	
+	return 0;
+}
